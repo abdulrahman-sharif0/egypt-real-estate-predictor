@@ -860,8 +860,8 @@ pytest tests/
 
 ### **Questions? Issues? Feedback?**
 
-📧 **Email:** [your-email@example.com]  
-💼 **LinkedIn:** [your-linkedin-profile/in]  
+📧 **Email:** [abdulrahman2755634@gmail.com]  
+💼 **LinkedIn:** [https://www.linkedin.com/in/abdulrahman-sharif-b85a4a398]  
 🐙 **GitHub Issues:** [Open an issue here](../../issues/new)  
 🌐 **Live App:** [Coming Soon](https://your-app-name.streamlit.app)
 
@@ -906,7 +906,7 @@ SOFTWARE.
 
 ## 🌟 **Made with ❤️ for Egypt's Real Estate Market**
 
-### **Built by [Your Name]**  
+### **Built by [Abdulrahman Ibrahim Fawzi Sharif]**  
 *Data Scientist | Machine Learning Engineer | Egypt*
 
 *If this project helped you, please give it a ⭐ on GitHub!*
@@ -914,7 +914,7 @@ SOFTWARE.
 [⭐ Star This Repo](../../stargazers) | 
 [🐛 Report Issue](../../issues/new) | 
 [💡 Request Feature](../../issues/new) | 
-[📧 Contact Me](mailto:your-email@example.com)
+[📧 Contact Me](mailto:abdulrahman2755634@gmail.com)
 
 ---
 
