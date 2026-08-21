@@ -178,7 +178,7 @@ Total Features after Preprocessing: 494
 
 ### **Option 1: Try the Live App** 🌐
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)]((https://egypt-real-estate-predictor-6jrrgtpwmc9khmtlw6chqx.streamlit.app/))
+🌐 **Live App:** [✅ Try it Now!](https://egypt-real-estate-predictor-6jrrgtpwmc9khmtlw6chqx.streamlit.app/)
 
 ---
 
