@@ -178,9 +178,7 @@ Total Features after Preprocessing: 494
 
 ### **Option 1: Try the Live App** 🌐
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://your-app-name.streamlit.app)
-
-**Status:** Ready to deploy! Follow [Deployment Guide](#-deployment)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)]([https://your-app-name.streamlit.app](https://egypt-real-estate-predictor-6jrrgtpwmc9khmtlw6chqx.streamlit.app/))
 
 ---
 
@@ -863,7 +861,7 @@ pytest tests/
 📧 **Email:** [abdulrahman2755634@gmail.com]  
 💼 **LinkedIn:** [https://www.linkedin.com/in/abdulrahman-sharif-b85a4a398]  
 🐙 **GitHub Issues:** [Open an issue here](../../issues/new)  
-🌐 **Live App:** [Coming Soon](https://your-app-name.streamlit.app)
+🌐 **Live App:** (https://egypt-real-estate-predictor-6jrrgtpwmc9khmtlw6chqx.streamlit.app/)
 
 ### **Response Time**
 - Bug reports: 24-48 hours
